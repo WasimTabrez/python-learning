@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+company = input("Enter your company: ")
+salary = input("Enter your salary: ")
+
+print("\nEmployee Information")
+print("---------------------")
+print(f"Name    : {name}")
+print(f"Age     : {age}")
+print(f"Company : {company}")
+print(f"Salary  : ₹{salary}")
