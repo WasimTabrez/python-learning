@@ -1,0 +1,22 @@
+name = input("Enter Name: ")
+age = int(input("Enter Age: "))
+salary = float(input("Enter Salary: "))
+
+print()
+print("Employe Details")
+print("---------------")
+print("Name :", name)
+print("Age :", age)
+print("Salary :", salary)
+
+print()
+print("Memory Address")
+print(id(name))
+print(id(age))
+print(id(salary))
+
+print()
+print("Data Types")
+print(type(name))
+print(type(age))
+print(type(salary))
