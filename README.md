@@ -8,9 +8,10 @@ This repository documents my progress from Python fundamentals to AI Engineering
 
 - ✅ Day 1 - Python Basics
 - ✅ Day 2 - Variables and Data Types
-- ⬜ Day 3 - Operators
-- ⬜ Day 4 - Functions
-- ⬜ Day 5 - Lists
+- ✅ Day 3 - Operators
+- ✅ Day 4 - Loops
+- ⬜ Day 5 - Functions
+- ⬜ Day 6 - Lists
 
 ## Goal
 
