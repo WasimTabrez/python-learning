@@ -1,30 +1,274 @@
-# Python Learning Journey 🚀
+# 🐍 Python Learning Journey
 
-Welcome to my Python learning journey.
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/WasimTabrez/python-learning)
+![GitHub repo size](https://img.shields.io/github/repo-size/WasimTabrez/python-learning)
+![GitHub license](https://img.shields.io/github/license/WasimTabrez/python-learning)
 
-This repository documents my progress from Python fundamentals to AI Engineering.
+> **Learning Python from scratch to become an AI Software Engineer.**
 
-## Roadmap
+---
 
-- ✅ Day 1 - Python Basics
-- ✅ Day 2 - Variables and Data Types
-- ✅ Day 3 - Operators
-- ✅ Day 4 - Loops
-- ⬜ Day 5 - Functions
-- ⬜ Day 6 - Lists
+# 📖 About
 
-## Goal
+Welcome to my Python learning repository!
 
-Become an AI Software Engineer by building real-world projects using:
+This repository documents my journey of learning Python from scratch with the goal of becoming an AI Software Engineer.
 
-- Python
+I solve practical programming problems every day, learn new concepts, and build real-world projects while following a structured roadmap.
+
+The objective is not only to learn Python syntax but also to understand problem-solving, software engineering principles, and AI development.
+
+---
+
+# 🎯 Goals
+
+- Master Python programming
+- Build strong problem-solving skills
+- Learn software engineering best practices
+- Develop production-ready applications
+- Become an AI Software Engineer
+
+---
+
+# 🗺️ Learning Roadmap
+
+| Day | Topic | Status |
+|-----|-----------------------------|:------:|
+| Day 1 | Python Basics | ✅ |
+| Day 2 | Variables & Data Types | ✅ |
+| Day 3 | Operators | ✅ |
+| Day 4 | Loops | ✅ |
+| Day 5 | Functions | ⬜ |
+| Day 6 | Lists | ⬜ |
+| Day 7 | Tuples | ⬜ |
+| Day 8 | Dictionaries | ⬜ |
+| Day 9 | Sets | ⬜ |
+| Day 10 | Strings | ⬜ |
+| Day 11 | Modules & Packages | ⬜ |
+| Day 12 | Exception Handling | ⬜ |
+| Day 13 | File Handling | ⬜ |
+| Day 14 | Object-Oriented Programming | ⬜ |
+| Day 15 | Iterators & Generators | ⬜ |
+| Day 16 | Decorators | ⬜ |
+| Day 17 | Virtual Environments | ⬜ |
+| Day 18 | NumPy | ⬜ |
+| Day 19 | Pandas | ⬜ |
+| Day 20 | Mini Project | ⬜ |
+
+---
+
+# 📚 Progress Log
+
+## ✅ Day 1 - Python Basics
+
+### Concepts Learned
+
+- Python installation
+- print()
+- Variables
+- Input and Output
+- Comments
+
+### Programs
+
+- hello.py
+- user_input.py
+
+---
+
+## ✅ Day 2 - Variables & Data Types
+
+### Concepts Learned
+
+- Variables
+- Data Types
+- Mutable vs Immutable
+- Objects
+- References
+- id()
+- is vs ==
+- Shallow Copy
+- Deep Copy
+
+### Programs
+
+- variables.py
+- data_types.py
+- object_reference.py
+
+---
+
+## ✅ Day 3 - Operators
+
+### Concepts Learned
+
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- Assignment Operators
+- Membership Operators
+- Identity Operators
+
+### Programs
+
+- calculator.py
+- bmi.py
+- student_grade.py
+
+---
+
+## ✅ Day 4 - Loops
+
+### Concepts Learned
+
+- for loop
+- while loop
+- range()
+- break
+- continue
+- nested loops
+- Fibonacci sequence
+- Pattern printing
+
+### Programs
+
+- fibonacci.py
+- multiplication_table.py
+- even_odd.py
+- guess_number.py
+- pattern.py
+
+---
+
+> 🚀 **This section will be updated every day as I continue my learning journey.**
+
+---
+
+# 📂 Repository Structure
+
+```text
+python-learning/
+│
+├── Day-001/
+│   ├── README.md
+│   └── *.py
+│
+├── Day-002/
+│   ├── README.md
+│   └── *.py
+│
+├── Day-003/
+│   ├── README.md
+│   └── *.py
+│
+├── Day-004/
+│   ├── README.md
+│   └── *.py
+│
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+---
+
+# 💻 Technologies
+
+- Python 3.13
+- Git
+- GitHub
+- VS Code
+- macOS
+
+---
+
+# 🚀 Getting Started
+
+## Clone the repository
+
+```bash
+git clone https://github.com/WasimTabrez/python-learning.git
+```
+
+## Move into the project
+
+```bash
+cd python-learning
+```
+
+## Run a Python program
+
+```bash
+python3 Day-001/hello.py
+```
+
+---
+
+# 📅 Upcoming Topics
+
+- Functions
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Strings
+- Modules
+- Exception Handling
+- File Handling
+- OOP
+- Iterators
+- Generators
+- Decorators
+- NumPy
+- Pandas
 - FastAPI
 - Docker
+- Linux
 - AWS
 - LangChain
 - RAG
 - AI Agents
 
-## Author
+---
 
-Wasim Tabrez
+# 📈 Future Projects
+
+- Calculator
+- ATM System
+- Student Management System
+- Library Management System
+- Expense Tracker
+- Password Manager
+- REST API using FastAPI
+- Weather App
+- AI Chatbot
+- RAG Application
+- AI Agent
+
+---
+
+# 🤝 Contributing
+
+This repository is primarily for my personal learning journey.
+
+However, suggestions, improvements, and constructive feedback are always welcome.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 👨‍💻 Author
+
+**Wasim Tabrez**
+
+GitHub: https://github.com/WasimTabrez
+
+---
+
+⭐ **If you find this repository useful, consider giving it a Star!**
