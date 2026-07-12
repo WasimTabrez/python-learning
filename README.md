@@ -39,9 +39,9 @@ The objective is not only to learn Python syntax but also to understand problem-
 | Day 2 | Variables & Data Types | ✅ |
 | Day 3 | Operators | ✅ |
 | Day 4 | Loops | ✅ |
-| Day 5 | Functions | ⬜ |
-| Day 6 | Lists | ⬜ |
-| Day 7 | Tuples | ⬜ |
+| Day 5 | Functions | ✅ |
+| Day 6 | Lists | ✅ |
+| Day 7 | Tuples | ✅ |
 | Day 8 | Dictionaries | ⬜ |
 | Day 9 | Sets | ⬜ |
 | Day 10 | Strings | ⬜ |
@@ -55,93 +55,6 @@ The objective is not only to learn Python syntax but also to understand problem-
 | Day 18 | NumPy | ⬜ |
 | Day 19 | Pandas | ⬜ |
 | Day 20 | Mini Project | ⬜ |
-
----
-
-# 📚 Progress Log
-
-## ✅ Day 1 - Python Basics
-
-### Concepts Learned
-
-- Python installation
-- print()
-- Variables
-- Input and Output
-- Comments
-
-### Programs
-
-- hello.py
-- user_input.py
-
----
-
-## ✅ Day 2 - Variables & Data Types
-
-### Concepts Learned
-
-- Variables
-- Data Types
-- Mutable vs Immutable
-- Objects
-- References
-- id()
-- is vs ==
-- Shallow Copy
-- Deep Copy
-
-### Programs
-
-- variables.py
-- data_types.py
-- object_reference.py
-
----
-
-## ✅ Day 3 - Operators
-
-### Concepts Learned
-
-- Arithmetic Operators
-- Comparison Operators
-- Logical Operators
-- Assignment Operators
-- Membership Operators
-- Identity Operators
-
-### Programs
-
-- calculator.py
-- bmi.py
-- student_grade.py
-
----
-
-## ✅ Day 4 - Loops
-
-### Concepts Learned
-
-- for loop
-- while loop
-- range()
-- break
-- continue
-- nested loops
-- Fibonacci sequence
-- Pattern printing
-
-### Programs
-
-- fibonacci.py
-- multiplication_table.py
-- even_odd.py
-- guess_number.py
-- pattern.py
-
----
-
-> 🚀 **This section will be updated every day as I continue my learning journey.**
 
 ---
 
@@ -208,9 +121,6 @@ python3 Day-001/hello.py
 
 # 📅 Upcoming Topics
 
-- Functions
-- Lists
-- Tuples
 - Dictionaries
 - Sets
 - Strings
