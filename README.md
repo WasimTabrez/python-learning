@@ -2,10 +2,28 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WasimTabrez/python-learning)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/WasimTabrez/python-learning)
 ![GitHub repo size](https://img.shields.io/github/repo-size/WasimTabrez/python-learning)
+![Top language](https://img.shields.io/github/languages/top/WasimTabrez/python-learning)
 ![GitHub license](https://img.shields.io/github/license/WasimTabrez/python-learning)
 
 > **Learning Python from scratch to become an AI Software Engineer.**
+
+---
+
+## 📑 Table of Contents
+
+- [About](#-about)
+- [Goals](#-goals)
+- [Learning Roadmap](#-learning-roadmap)
+- [Repository Structure](#-repository-structure)
+- [Technologies](#-technologies)
+- [Getting Started](#-getting-started)
+- [Upcoming Topics](#-upcoming-topics)
+- [Future Projects](#-future-projects)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
@@ -66,16 +84,25 @@ python-learning/
 ├── Day-001/
 │   ├── README.md
 │   └── *.py
-│
 ├── Day-002/
 │   ├── README.md
 │   └── *.py
-│
 ├── Day-003/
 │   ├── README.md
 │   └── *.py
-│
 ├── Day-004/
+│   ├── README.md
+│   └── *.py
+├── Day-005/
+│   ├── README.md
+│   └── *.py
+├── Day-006/
+│   ├── README.md
+│   └── *.py
+├── Day-007/
+│   ├── README.md
+│   └── *.py
+├── Day-008/
 │   ├── README.md
 │   └── *.py
 │
@@ -124,13 +151,13 @@ python3 Day-001/hello.py
 - Dictionaries
 - Sets
 - Strings
-- Modules
+- Modules & Packages
 - Exception Handling
 - File Handling
-- OOP
-- Iterators
-- Generators
+- Object-Oriented Programming
+- Iterators & Generators
 - Decorators
+- Virtual Environments
 - NumPy
 - Pandas
 - FastAPI
@@ -145,13 +172,21 @@ python3 Day-001/hello.py
 
 # 📈 Future Projects
 
+## Beginner
+
 - Calculator
-- ATM System
+- ATM system
 - Student Management System
-- Library Management System
+
+## Intermediate
+
 - Expense Tracker
+- Library Management System
 - Password Manager
-- REST API using FastAPI
+
+## Advanced
+
+- REST API (FastAPI)
 - Weather App
 - AI Chatbot
 - RAG Application
@@ -177,7 +212,7 @@ This project is licensed under the MIT License.
 
 **Wasim Tabrez**
 
-GitHub: https://github.com/WasimTabrez
+GitHub: [@WasimTabrez](https://github.com/WasimTabrez)
 
 ---
 
