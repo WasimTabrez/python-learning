@@ -6,6 +6,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/WasimTabrez/python-learning)
 ![Top language](https://img.shields.io/github/languages/top/WasimTabrez/python-learning)
 ![GitHub license](https://img.shields.io/github/license/WasimTabrez/python-learning)
+![GitHub stars](https://img.shields.io/github/stars/WasimTabrez/python-learning?style=social)
+![GitHub forks](https://img.shields.io/github/forks/WasimTabrez/python-learning?style=social)
+![GitHub issues](https://img.shields.io/github/issues/WasimTabrez/python-learning)
+![GitHub watchers](https://img.shields.io/github/watchers/WasimTabrez/python-learning?style=social)
 
 > **Learning Python from scratch to become an AI Software Engineer.**
 
@@ -60,8 +64,8 @@ The objective is not only to learn Python syntax but also to understand problem-
 | Day 5 | Functions | ✅ |
 | Day 6 | Lists | ✅ |
 | Day 7 | Tuples | ✅ |
-| Day 8 | Dictionaries | ⬜ |
-| Day 9 | Sets | ⬜ |
+| Day 8 | Dictionaries | ✅ |
+| Day 9 | Sets | ✅ |
 | Day 10 | Strings | ⬜ |
 | Day 11 | Modules & Packages | ⬜ |
 | Day 12 | Exception Handling | ⬜ |
@@ -103,6 +107,9 @@ python-learning/
 │   ├── README.md
 │   └── *.py
 ├── Day-008/
+│   ├── README.md
+│   └── *.py
+├── Day-009/
 │   ├── README.md
 │   └── *.py
 │
@@ -148,8 +155,6 @@ python3 Day-001/hello.py
 
 # 📅 Upcoming Topics
 
-- Dictionaries
-- Sets
 - Strings
 - Modules & Packages
 - Exception Handling
