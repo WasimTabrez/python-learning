@@ -1,0 +1,172 @@
+# Menu-driven Student Record Search System
+
+students = []
+
+
+def add_student():
+    name = input("Enter Student Name: ").strip()
+
+    if not name:
+        print("Student name cannot be empty.\n")
+        return
+
+    if name in students:
+        print("Student already exists.\n")
+    else:
+        students.append(name)
+        print("Student added successfully.\n")
+
+
+def search_student():
+    if not students:
+        print("No students available.\n")
+        return
+
+    name = input("Enter Student Name: ").strip()
+
+    if name in students:
+        print(f"{name} found at position {students.index(name) + 1}.\n")
+    else:
+        print("Student not found.\n")
+
+
+def update_student():
+    if not students:
+        print("No students available.\n")
+        return
+
+    old_name = input("Enter Existing Student Name: ").strip()
+
+    if old_name not in students:
+        print("Student not found.\n")
+        return
+
+    new_name = input("Enter New Student Name: ").strip()
+
+    students[students.index(old_name)] = new_name
+
+    print("Student updated successfully.\n")
+
+
+def delete_student():
+    if not students:
+        print("No students available.\n")
+        return
+
+    name = input("Enter Student Name: ").strip()
+
+    if name in students:
+        students.remove(name)
+        print("Student deleted successfully.\n")
+    else:
+        print("Student not found.\n")
+
+
+def display_students():
+    if not students:
+        print("No students available.\n")
+        return
+
+    print("\nStudent List")
+    print("------------")
+
+    for roll, student in enumerate(students, start=1):
+        print(f"{roll}. {student}")
+
+    print()
+
+
+def search_prefix():
+    if not students:
+        print("No students available.\n")
+        return
+
+    prefix = input("Enter Prefix: ").strip().lower()
+
+    found = False
+
+    for student in students:
+        if student.lower().startswith(prefix):
+            print(student)
+            found = True
+
+    if not found:
+        print("No student found.")
+
+    print()
+
+
+def search_suffix():
+    if not students:
+        print("No students available.\n")
+        return
+
+    suffix = input("Enter Suffix: ").strip().lower()
+
+    found = False
+
+    for student in students:
+        if student.lower().endswith(suffix):
+            print(student)
+            found = True
+
+    if not found:
+        print("No student found.")
+
+    print()
+
+
+def count_students():
+    print(f"Total Students: {len(students)}\n")
+
+
+def menu():
+    while True:
+
+        print("====== Student Record Search ======")
+        print("1. Add Student")
+        print("2. Search Student")
+        print("3. Update Student Name")
+        print("4. Delete Student")
+        print("5. Display Students")
+        print("6. Search by Prefix")
+        print("7. Search by Suffix")
+        print("8. Count Students")
+        print("9. Exit")
+
+        choice = input("Enter your choice: ")
+
+        match choice:
+            case "1":
+                add_student()
+
+            case "2":
+                search_student()
+
+            case "3":
+                update_student()
+
+            case "4":
+                delete_student()
+
+            case "5":
+                display_students()
+
+            case "6":
+                search_prefix()
+
+            case "7":
+                search_suffix()
+
+            case "8":
+                count_students()
+
+            case "9":
+                print("Thank you!")
+                break
+
+            case _:
+                print("Invalid Choice.\n")
+
+
+menu()

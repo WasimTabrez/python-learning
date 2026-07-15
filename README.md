@@ -112,6 +112,9 @@ python-learning/
 ├── Day-009/
 │   ├── README.md
 │   └── *.py
+├── Day-010/
+│   ├── README.md
+│   └── *.py
 │
 ├── requirements.txt
 ├── .gitignore
@@ -155,7 +158,6 @@ python3 Day-001/hello.py
 
 # 📅 Upcoming Topics
 
-- Strings
 - Modules & Packages
 - Exception Handling
 - File Handling
