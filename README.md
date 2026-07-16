@@ -66,8 +66,8 @@ The objective is not only to learn Python syntax but also to understand problem-
 | Day 7 | Tuples | ✅ |
 | Day 8 | Dictionaries | ✅ |
 | Day 9 | Sets | ✅ |
-| Day 10 | Strings | ⬜ |
-| Day 11 | Modules & Packages | ⬜ |
+| Day 10 | Strings | ✅ |
+| Day 11 | Modules & Packages | ✅ |
 | Day 12 | Exception Handling | ⬜ |
 | Day 13 | File Handling | ⬜ |
 | Day 14 | Object-Oriented Programming | ⬜ |
@@ -115,7 +115,9 @@ python-learning/
 ├── Day-010/
 │   ├── README.md
 │   └── *.py
-│
+├── Day-011/
+│   ├── README.md
+│   └── *.py
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
@@ -158,7 +160,6 @@ python3 Day-001/hello.py
 
 # 📅 Upcoming Topics
 
-- Modules & Packages
 - Exception Handling
 - File Handling
 - Object-Oriented Programming
