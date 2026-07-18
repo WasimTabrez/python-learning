@@ -69,7 +69,7 @@ The objective is not only to learn Python syntax but also to understand problem-
 | Day 10 | Strings | ✅ |
 | Day 11 | Modules & Packages | ✅ |
 | Day 12 | Exception Handling | ✅ |
-| Day 13 | File Handling | ⬜ |
+| Day 13 | File Handling | ✅ |
 | Day 14 | Object-Oriented Programming | ⬜ |
 | Day 15 | Iterators & Generators | ⬜ |
 | Day 16 | Decorators | ⬜ |
@@ -121,6 +121,9 @@ python-learning/
 ├── Day-012/
 │   ├── README.md
 │   └── *.py
+├── Day-013/
+│   ├── README.md
+│   └── *.py
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
@@ -163,7 +166,6 @@ python3 Day-001/hello.py
 
 # 📅 Upcoming Topics
 
-- File Handling
 - Object-Oriented Programming
 - Iterators & Generators
 - Decorators
