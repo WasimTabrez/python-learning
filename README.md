@@ -70,7 +70,7 @@ The objective is not only to learn Python syntax but also to understand problem-
 | Day 11 | Modules & Packages | ✅ |
 | Day 12 | Exception Handling | ✅ |
 | Day 13 | File Handling | ✅ |
-| Day 14 | Object-Oriented Programming | ⬜ |
+| Day 14 | Object-Oriented Programming | ✅ |
 | Day 15 | Iterators & Generators | ⬜ |
 | Day 16 | Decorators | ⬜ |
 | Day 17 | Virtual Environments | ⬜ |
@@ -124,6 +124,9 @@ python-learning/
 ├── Day-013/
 │   ├── README.md
 │   └── *.py
+├── Day-014/
+│   ├── README.md
+│   └── *.py
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
@@ -166,7 +169,6 @@ python3 Day-001/hello.py
 
 # 📅 Upcoming Topics
 
-- Object-Oriented Programming
 - Iterators & Generators
 - Decorators
 - Virtual Environments
