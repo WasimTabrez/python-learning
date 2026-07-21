@@ -72,7 +72,7 @@ The objective is not only to learn Python syntax but also to understand problem-
 | Day 13 | File Handling | ✅ |
 | Day 14 | Object-Oriented Programming | ✅ |
 | Day 15 | Iterators & Generators | ✅ |
-| Day 16 | Decorators | ⬜ |
+| Day 16 | Decorators | ✅ |
 | Day 17 | Virtual Environments | ⬜ |
 | Day 18 | NumPy | ⬜ |
 | Day 19 | Pandas | ⬜ |
