@@ -1,0 +1,21 @@
+Wasim Tabrez
+
+Software Engineer
+
+Email : wasim.tabrez@gmail.com
+
+Phone : +91 9876543210
+
+LinkedIn :
+https://www.linkedin.com/in/wasim-tabrez
+
+Skills
+
+Python
+C++
+Git
+Linux
+Docker
+AWS
+SQL
+Machine Learning
